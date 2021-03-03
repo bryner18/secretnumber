@@ -1,6 +1,3 @@
-# Nombre: Bryner Amparo
-# Matricula: 2020-10415
-
 import random
 import sys
 
